@@ -1,7 +1,8 @@
 #ifndef MENU_LIB_MENU_OPTION_H
 #define MENU_LIB_MENU_OPTION_H
 
-#include "pch.h"
+#include <functional>
+#include <string>
 
 namespace menu_lib {
 

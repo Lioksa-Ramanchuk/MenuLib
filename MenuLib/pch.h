@@ -6,7 +6,6 @@
 #include <functional>
 #include <iostream>
 #include <memory>
-#include <ostream>
 #include <ranges>
 #include <sstream>
 #include <string>

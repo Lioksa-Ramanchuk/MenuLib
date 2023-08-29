@@ -1,7 +1,11 @@
 #ifndef MENU_LIB_MENU_H
 #define MENU_LIB_MENU_H
 
-#include "pch.h"
+#include <functional>
+#include <iostream>
+#include <format>
+#include <string>
+#include <vector>
 
 #include "menu_option.h"
 
